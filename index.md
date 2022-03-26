@@ -1,19 +1,33 @@
 ## Welcome to GitHub Pages
 
 :cn: :atom:
+
 :book: 	:books: :pen:
+
 :iphone:  :computer: :film_projector:  :clapper: 
+
 :earth_asia: :boat: :rocket: :alarm_clock: 	:sunny: :sun_behind_small_cloud:
+
 👍 :smile:  :joy:   :medal_military:  :medal_sports: :dart: :headphones:
+
 :warning: :exclamation: :white_check_mark: :negative_squared_cross_mark: 	:triangular_flag_on_post:
+
 :heart: :orange_heart: :moneybag:  :dollar: 
+
 :ok_hand: :v: :+1: :clap: :handshake:
+
 :ear:  :farmer:  :man_farmer: 	:man_judge:  :woman_judge: :technologist:
+
 :artist: :policeman: :merman: 
+
 :runner:  :running_man:  :running_woman: :footprints:
+
 :climbing: :climbing_woman: 
+
 :bouncing_ball_person: :basketball_man:
+
 :lotus_position: :lotus_position_woman:
+
 :couple: :two_men_holding_hands:  :family_man_woman_girl:  :family_man_woman_girl_boy:
 
 - [x] 3.26
@@ -115,9 +129,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
-
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
