@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
@@ -35,3 +38,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Reference
+
+1. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+2. [关于在 GitHub 上编写和设置格式](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+3. [基本撰写和格式语法](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+4. [使用高级格式](https://docs.github.com/cn/get-started/writing-on-github/working-with-advanced-formatting)
