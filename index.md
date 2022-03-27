@@ -107,6 +107,30 @@ You can use the [editor on GitHub](https://github.com/csu18/csu18/edit/gh-pages/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### [了不起的Markdown](https://www.dedao.cn/ebook/reader?id=N5lDqb9b47pXZxGn1kBzPlMyQArYv0q96e0qe85E2aVKdo9jNgOLRmDJ6nXLm16K)
+
+![image](https://user-images.githubusercontent.com/102411214/160274698-b14a7d15-4a04-41b3-9c27-558ccc2664c3.png)
+
+《失控》《必然》等畅销书的作者Kevin Kelly在一次演讲中提到：
+
+> “关于技术，在最开始时，没有人知道新的发明最适合用于做什么，例如爱迪生的留声机，他原本不知道这能用来干什么。留生机慢慢被应用于两个场景：一是录下临终遗言；二是录下教堂里的讲话，包括唱歌。后来留声机主要用于录制音乐等。”
+
+所以说“技术的用途，是用出来的”
+
+Markdown也是如此。
+
+起初，发明Markdown只是为了简化文章的排版，后来人们不断地尝试把它应用到各种写作场景中，并与一些专业的软件相结合，于是才有了这么多好用的Markdown工具。
+如今，Markdown几乎随处可见，并且扮演着越来越重要的角色。知乎、简书、CSDN、GitHub、WordPress、印象笔记、有道笔记等都支持Markdown。用Markdown可以写书、写幻灯片、写邮件、写日记、写便签、记笔记、写博客，说Markdown是最流行的“写作语言”一点也不为过。
+
+我们都知道Markdown的特点就是简单易用，如果想要学习它，网上已经有很多文章，可我为什么还要写这本书呢?其实只要你用心观察就不难发现，虽然网上介绍Markdown的文章满天飞，但这些内容都比较碎片化，读者并不能通过这些碎片化的信息全面系统地学习Markdown。
+
+我曾经在微博上看到过这么一段话，大意是说，当我决定是否写一篇文章时，首先要看类似的内容是否已有人写过；如果有，再看我是否有新的观点，或者能否写得更好；能否写得更系统、更全面、更通俗易懂。
+这也是本书的写作初衷—为了让更多的人更全面地了解并使用Markdown。
+
+据 GitHub Flavored Markdown（GFM）官方文档介绍，Markdown是由约翰·格鲁伯（John Gruber）在亚伦·斯沃茨（Aaron Swartz）的帮助下开发，并在2004年发布的标记语言。
+其设计灵感主要来源于纯文本电子邮件的格式，目标是让人们能够使用易读、易写的纯文本格式编写文档，而且这些文档可以转换为HTML（HyperText Markup Language，超文本标记语言）文档。
+简单点说，Markdown就是由一些简单的符号/（如*/-> [] （）#）/组成的用于排版的标记语言，其最重要的特点就是可读性强。
+
 ### Markdown
 
 ![image](https://user-images.githubusercontent.com/102411214/160233935-9be92602-3f35-4b72-9a2f-68a1d4c13df1.png)
