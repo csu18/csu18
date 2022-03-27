@@ -107,6 +107,23 @@ You can use the [editor on GitHub](https://github.com/csu18/csu18/edit/gh-pages/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Markdown 高级技巧](https://www.runoob.com/markdown/md-advance.html)
+
+不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。
+
+目前支持的 HTML 元素有：<kbd> <b> <i> <em> <sup> <sub> <br>等 ，如：
+  
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+  
+```mermaid
+graph LR
+A[方形] -->B(圆角)
+    B --> C{条件a}
+    C -->|a=1| D[结果1]
+    C -->|a=2| E[结果2]
+    F[横向流程图]
+```
+
 ### [了不起的Markdown](https://www.dedao.cn/ebook/reader?id=N5lDqb9b47pXZxGn1kBzPlMyQArYv0q96e0qe85E2aVKdo9jNgOLRmDJ6nXLm16K)
 
 ![image](https://user-images.githubusercontent.com/102411214/160274698-b14a7d15-4a04-41b3-9c27-558ccc2664c3.png)
@@ -172,3 +189,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 3. [基本撰写和格式语法](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 4. [使用高级格式](https://docs.github.com/cn/get-started/writing-on-github/working-with-advanced-formatting)
 5. [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) 
+6. [Markdown 高级技巧](https://www.runoob.com/markdown/md-advance.html)
+7. [MarkDown高级技巧](https://www.jianshu.com/p/4cfb39ff85e9) 
